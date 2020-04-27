@@ -19,4 +19,6 @@ An das Plugin sind folgende Anforderungen zu stellen.
 
 - Als horizontale Balken sollen die zu der Zeit bearbeiteten Arbeitspakete (als Issues modelliert) angezeigt werden (Balken zwischen Start- und Enddatum, benannt mit Titel des Issues).  
 
-<img align="center" src="newplot.png" />
+<p align="center">
+  <img src="newplot.png" />
+</p>
