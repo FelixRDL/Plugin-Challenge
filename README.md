@@ -18,3 +18,5 @@ An das Plugin sind folgende Anforderungen zu stellen.
 - Im Repository gesetzte Milestones, sowie von Dozierenden gesetzte Deadlines sollen als vertikale, benannte Balken gerendert werden
 
 - Als horizontale Balken sollen die zu der Zeit bearbeiteten Arbeitspakete (als Issues modelliert) angezeigt werden (Balken zwischen Start- und Enddatum, benannt mit Titel des Issues).  
+
+<img width="331" src="newplot.png">
