@@ -11,7 +11,7 @@ An das Plugin sind folgende Anforderungen zu stellen.
 - Visualisierung des täglichen Aufwands (y-Achse) nach Autor über Zeit (x-Achse) in einem Graphen
   - Ein Trace pro StudentIn
   - Ein weiterer Trace mit Gruppendurchschnitt
-  - Ein Trace mit dem Durchschnitt anderer Gruppen
+  - Ein Trace mit dem Durchschnitt über alle Gruppen im Kurs
   
 - Der Aufwand wird, je nach Konfiguration, an der Zahl der Commits, oder geänderter Zeilen bemessen
 
