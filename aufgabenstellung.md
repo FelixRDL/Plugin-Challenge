@@ -21,4 +21,9 @@ Im folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
   <img src="newplot.png" />
 </p>
 
+Bei der Implementierung
+- sind Sie an keine konkrete Programmiersprache gebunden
+- dürfen Sie den bestehenden Objekten beliebige Attribute ergänzen
+- dürfen Sie fiktive Hilfsfunktionen benutzen - bitte benennen Sie diese verständlich
+
 [Weiter zum Starterprojekt (Bitte in neuem Tab öffnen)](https://www.codepile.net/pile/pR3jy6rk)
