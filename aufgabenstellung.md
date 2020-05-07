@@ -1,3 +1,4 @@
+## Aufgabenstellung 
 An das Plugin sind folgende Anforderungen zu stellen.
 
 - Visualisierung des täglichen Aufwands (y-Achse) nach Autor über Zeit (x-Achse) in einem Graphen
