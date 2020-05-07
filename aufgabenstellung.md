@@ -1,7 +1,10 @@
 ## Aufgabenstellung 
+
+Wir bitten Sie nun, ein Analyse-Plugin für das bislang noch fiktive System zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben.
+
 An das Plugin sind folgende Anforderungen zu stellen.
 
-- Visualisierung des täglichen Aufwands (y-Achse) nach Autor über Zeit (x-Achse) in einem Graphen
+- Visualisierung des täglichen Aufwands (y-Achse) nach StudentIn über Zeit (x-Achse) in einem Graphen
   - Ein Trace pro StudentIn
   - Ein weiterer Trace mit Gruppendurchschnitt
   - Ein Trace mit dem Durchschnitt über alle Gruppen im Kurs
