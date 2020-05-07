@@ -21,4 +21,4 @@ Im folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
   <img src="newplot.png" />
 </p>
 
-[Weiter zum Starterprojekt](https://www.codepile.net/pile/pR3jy6rk)
+[Weiter zum Starterprojekt (Bitte in neuem Tab öffnen)](https://www.codepile.net/pile/pR3jy6rk)
