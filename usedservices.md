@@ -1,6 +1,6 @@
 ## Einverständnis Verwendete Tools & Services
 
-Im Rahmen der folgenden werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgende Tools werden dafür verwendet:
+Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgende Tools werden dafür verwendet:
 
 - jit.si, ein Telekonferenzsystem (gehostet an der Uni Regensburg, nur Audio)
 
