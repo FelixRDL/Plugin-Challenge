@@ -8,4 +8,4 @@ Im Rahmen der folgenden werden Screencaptures eines geteilten Code-Editors, sowi
 
 Die Daten werden anonymisiert gesammelt, nicht-öffentlich abgespeichert und nur für wissenschaftliche Zwecke in kumulierter Form ausgewertet. Ein Rückschluss auf Sie als ProbandIn ist durch diese Daten nicht mehr möglich.
 
-Falls Sie mit der Nutzung dieser Tools einverstanden sind
+[Ich bin mit der Nutzung der genannten Dienste einverstanden und möchte die Studie beginnen.](https://github.com/FelixRDL/Plugin-Challenge/blob/master/aufgabenstellung.md)
