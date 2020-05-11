@@ -26,5 +26,4 @@ Im folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
   <img src="newplot.png" />
 </p>
 
-
-[Weiter zum Starterprojekt (Bitte in neuem Tab öffnen)](https://www.codepile.net/pile/pR3jy6rk)
+Bitte geben Sie mir kurz bescheid, wenn Sie bereit sind mit der Bearbeitung der Aufgabe zu beginnen! 
