@@ -1,6 +1,6 @@
 ## Aufgabenstellung 
 
-Wir bitten Sie nun, ein Analyse-Plugin für ein solches hypothetishces System zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben.
+Wir bitten Sie nun, ein Analyse-Plugin für ein solches hypothetisches System zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben.
 
 An das Plugin sind folgende Anforderungen zu stellen:
 
