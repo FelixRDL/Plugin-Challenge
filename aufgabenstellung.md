@@ -5,7 +5,7 @@ Wir bitten Sie nun, ein Analyse-Plugin für ein erweiterbares System zur Analyse
 An das Plugin sind folgende Anforderungen zu stellen:
 
 - Visualisierung des täglichen Aufwands (y-Achse) nach StudentIn über Zeit (x-Achse) in einem Graphen
-  - Eine Linie für den täglichen Arbeitsaufwand für einE StudentIn
+  - Eine Linie für den täglichen Arbeitsaufwand pro StudentIn
   - Eine weitere Linie mit dem durchschnittlichen täglichen Arbeitsaufwand für alle StudentInnen des Teams
   
 - Der Aufwand wird, je nach Einstellung, an der Zahl der Commits, oder geänderter Zeilen bemessen
