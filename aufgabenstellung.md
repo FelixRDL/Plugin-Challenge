@@ -1,6 +1,6 @@
 ## Aufgabenstellung 
 
-Wir bitten Sie nun, ein Analyse-Plugin für ein hypothetisches System zur Analyse von studentischen Softwarerepositories zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben, um beispielsweise problematische Tendenzen im Arbeitsverhalten eines Teams erkennen zu können.
+Wir bitten Sie nun, ein Analyse-Plugin für ein erweiterbares System zur Analyse von studentischen Softwarerepositories zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben, um beispielsweise problematische Tendenzen im Arbeitsverhalten eines Teams erkennen zu können.
 
 An das Plugin sind folgende Anforderungen zu stellen:
 
