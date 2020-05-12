@@ -1,4 +1,4 @@
-## Einverständnis Verwendete Tools & Services
+## Einverständnis verwendete Tools & Services
 
 Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgende Tools werden dafür verwendet:
 
