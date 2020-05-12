@@ -1,13 +1,12 @@
 ## Aufgabenstellung 
 
-Wir bitten Sie nun, ein Analyse-Plugin für ein solches hypothetisches System zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben.
+Wir bitten Sie nun, ein Analyse-Plugin für ein hypothetisches System zur Analyse von studentischen Softwarerepositories zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben, um beispielsweise problematische Tendenzen im Arbeitsverhalten eines Teams erkennen zu können.
 
 An das Plugin sind folgende Anforderungen zu stellen:
 
 - Visualisierung des täglichen Aufwands (y-Achse) nach StudentIn über Zeit (x-Achse) in einem Graphen
   - Ein Trace pro StudentIn
   - Ein weiterer Trace mit Gruppendurchschnitt
-  - Ein Trace mit dem Durchschnitt über alle Gruppen im Kurs
   
 - Der Aufwand wird, je nach Einstellung, an der Zahl der Commits, oder geänderter Zeilen bemessen
 
