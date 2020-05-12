@@ -2,7 +2,7 @@
 
 Wir bitten Sie nun, ein Analyse-Plugin für ein erweiterbares System zur Analyse von studentischen Softwarerepositories zu erstellen. Das Plugin soll eine Abschätzung des investierten Arbeitsaufwands innerhalb studentischer Projektgruppen anhand von Daten aus dem Github-Repository erlauben, um beispielsweise problematische Tendenzen im Arbeitsverhalten eines Teams erkennen zu können.
 
-**Wie bereits erwähnt geht es in dieser Studie darum, einen Einblick zu erhalten, wie sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Das Plugin muss weder lauffähig, noch in vorgegebener Zeit vollständig umgesetzt werden!**
+**Wie bereits erwähnt geht es in dieser Studie darum, einen Einblick zu erhalten, wie sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Das Plugin muss weder lauffähig, noch vollständig umgesetzt werden!**
 
 An das Plugin sind folgende Anforderungen zu stellen:
 
