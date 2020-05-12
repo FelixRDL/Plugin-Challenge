@@ -1,4 +1,4 @@
-## Einverständnis verwendete Tools & Services
+## Einverständnis Aufzeichnung von Ton- und Bildmaterial
 
 Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgendes zeichnen wir auf:
 
