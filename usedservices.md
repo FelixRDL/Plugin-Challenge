@@ -1,11 +1,13 @@
 ## Einverständnis verwendete Tools & Services
 
-Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgende Tools werden dafür verwendet:
+Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgendes zeichnen wir auf:
 
-- jit.si, ein Telekonferenzsystem (gehostet an der Uni Regensburg, nur Audio)
+- Audio der gesamten Unterhaltung auf jit.si
 
-- codepile.net, ein kollaborativer Code-Editor (Sie sind anonym angemeldet, Bearbeitung wird über OBS-Screencapture aufgezeichnet)
+- Bearbeitungsverlauf des Projektcode auf codepile
 
-Die Daten werden anonymisiert gesammelt, nicht-öffentlich abgespeichert und nur für wissenschaftliche Zwecke in kumulierter Form ausgewertet. Ein Rückschluss auf Sie als ProbandIn ist durch diese Daten nicht mehr möglich.
+Die Daten werden anonymisiert gesammelt, nicht-öffentlich abgespeichert und nur im Rahmen dieser Masterarbeit ausgewertet. Ein Rückschluss auf Sie als ProbandIn ist in der Auswertung später nicht mehr möglich.
 
-[Ich bin mit der Nutzung der genannten Dienste einverstanden und möchte die Studie beginnen.](https://github.com/FelixRDL/Plugin-Challenge/blob/master/aufgabenstellung.md)
+Bitte geben Sie mir kurz im Voicechat bescheid, ob Sie mit diesen Bedingungen einverstanden sind. 
+
+[Weiter](https://github.com/FelixRDL/Plugin-Challenge/blob/master/start.md)
