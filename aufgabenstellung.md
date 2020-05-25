@@ -16,10 +16,26 @@ An das Plugin sind folgende Anforderungen zu stellen:
 
 - In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Arbeitspakete (als Issues modelliert) angezeigt werden (Balken zwischen Start- und Enddatum, benannt mit Titel des Issues).  
 
+Bitte bearbeiten Sie nacheinander folgende Unteraufgaben
+
+- Welche Informationen erwarten Sie im Parameter-Objekt?
+
+- Wie würden Sie diese aus den bereitgestellten Daten berechnen/auslesen?
+
+- Welche Informationen/Daten brauchen Sie für die Erstellung der Visualisierung?
+
+- Wie würden Sie die diese berechnen (logische Verarbeitung)?
+
+- Wie stellen Sie sich das zurückgebenen Visualisierungs-Objekt vor?
+
 Bei der Implementierung
+
 - sind Sie an keine konkrete Programmiersprache gebunden
+
 - dürfen Sie den bestehenden Objekten beliebige Attribute ergänzen
+
 - dürfen Sie fiktive Hilfsfunktionen benutzen - bitte benennen Sie diese verständlich
+
 
 Im folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
 
