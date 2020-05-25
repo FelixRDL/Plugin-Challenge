@@ -4,6 +4,13 @@ Wir bitten Sie nun, ein Analyse-Plugin für ein erweiterbares System zur Analyse
 
 **Wie bereits erwähnt geht es in dieser Studie darum, einen Einblick zu erhalten, wie sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Das Plugin muss weder lauffähig, noch vollständig umgesetzt werden!**
 
+### Unteraufgaben
+
+Bitte befolgen Sie bei der Bearbeitung die Unteraufgaben, die in den Kommentarblöcken beschrieben sind.
+
+### Plugin-Spezifikationen
+
+
 An das Plugin sind folgende Anforderungen zu stellen:
 
 - Visualisierung des täglichen Aufwands (y-Achse) nach StudentIn über Zeit (x-Achse) in einem Graphen
@@ -15,18 +22,6 @@ An das Plugin sind folgende Anforderungen zu stellen:
 - Im Repository gesetzte Milestones, sowie von Dozierenden gesetzte Deadlines sollen als vertikale, benannte Balken gerendert werden
 
 - In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Arbeitspakete (als Issues modelliert) angezeigt werden (Balken zwischen Start- und Enddatum, benannt mit Titel des Issues).  
-
-Bitte bearbeiten Sie nacheinander folgende Unteraufgaben
-
-- Welche Informationen erwarten Sie im Parameter-Objekt?
-
-- Wie würden Sie diese aus den bereitgestellten Daten berechnen/auslesen?
-
-- Welche Informationen/Daten brauchen Sie für die Erstellung der Visualisierung?
-
-- Wie würden Sie die diese berechnen (logische Verarbeitung)?
-
-- Wie stellen Sie sich das zurückgebenen Visualisierungs-Objekt vor?
 
 Bei der Implementierung
 
