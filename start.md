@@ -7,4 +7,4 @@ Ich werde jetzt die zuvor beschriebenen Aufnahmen starten und Ihnen dann über d
 
 Geben Sie mir anschließend bitte kurz bescheid, wenn Sie bereit sind, die Studie zu beginnen. Klicken Sie bitte erst dann den Link.
 
-[Weiter](https://github.com/FelixRDL/Plugin-Challenge/blob/master/aufgabenstellung.md)
+### [Zur Aufgabenbschreibung](https://github.com/FelixRDL/Plugin-Challenge/blob/master/aufgabenstellung.md)
