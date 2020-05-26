@@ -2,7 +2,7 @@
 
 Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgendes zeichnen wir auf:
 
-- Audio der gesamten Unterhaltung auf jit.si
+- Audio der gesamten Unterhaltung auf jit.si (oder einem alternativen Telekonferenzsystem)
 
 - Bearbeitungsverlauf des Projektcode auf codepile
 
