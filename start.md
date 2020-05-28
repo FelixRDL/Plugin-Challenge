@@ -5,4 +5,4 @@ Im Anschluss werde ich Sie gleich bitten, ein beispielhaftes Plugin zu entwickel
 
 Bitte geben Sie mir kurz im Voicechat bescheid, bevor Sie zur Aufgabenstellung fortfahren, damit ich die Aufnahme zuvor starten kann. 
 
-# [Zur Aufgabenstellung ➡️](https://github.com/FelixRDL/Plugin-Challenge/blob/master/aufgabenstellung.md)
+# [Zur Aufgabenstellung](https://github.com/FelixRDL/Plugin-Challenge/blob/master/aufgabenstellung.md)
