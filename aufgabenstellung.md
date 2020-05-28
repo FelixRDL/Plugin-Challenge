@@ -38,4 +38,4 @@ Im folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
   <img src="newplot.png" />
 </p>
 
-Bitte geben Sie mir kurz bescheid, wenn Sie bereit sind mit der Bearbeitung der Aufgabe zu beginnen! 
+Bitte geben Sie mir kurz bescheid wenn Sie bereit sind mit der Bearbeitung der Aufgabe zu beginnen - ich schicke Ihnen dann im Chat den Zugang zur Code-Plattform.
