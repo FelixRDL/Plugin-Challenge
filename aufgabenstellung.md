@@ -7,7 +7,7 @@
 
 Implementieren Sie bitte beispielhaft die weiter unten beschriebene Analyse. Falls es Fragen oder Unklarheiten gibt, können Sie sich gerne über Voicechat bei mir melden. Geben Sie mir außerdem über Voicechat Bescheid, wenn Sie bereit sind, die Studie zu beginnen - ich gebe Ihnen dann Zugang zum Code-Editor der Studie.
 
-**Es geht in der Studie darum einen Einblick zu erhalten, wie sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Das Plugin muss weder lauffähig, noch vollständig umgesetzt werden.**
+**Es geht in der Studie darum einen Einblick zu erhalten, wie Sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Das Plugin muss weder lauffähig, noch vollständig umgesetzt werden.**
 
 
 ### Plugin-Spezifikationen
