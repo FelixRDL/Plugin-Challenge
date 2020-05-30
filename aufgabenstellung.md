@@ -1,7 +1,7 @@
 ## Aufgabenstellung 
 
 ### Szenario
-*Sie möchten ein studentisches Github-Repository in Bezug auf den geleisteten täglichen Arbeitsaufwand pro TeilnehmerIn eines Projektteams untersuchen. Auf diese Art und Weise möchten Sie besonders starke Divergenzen in der geleisteten Arbeit erkennen und vermeintliche Probleme mit den Studierenden zeitnah klären können. Zur besseren Übersicht möchten Sie zudem noch eine Darstellung gegen die an den entsprechenden Tagen aktiv bearbeiteten Arbeitspakete, sowie die entsprechenden Deadlines des Kurses anzeigen.*
+*Sie möchten ein studentisches Github-Repository in Bezug auf den geleisteten täglichen Arbeitsaufwand pro TeilnehmerIn eines Projektteams untersuchen. Auf diese Art und Weise möchten Sie besonders starke Divergenzen in der geleisteten Arbeit erkennen und vermeintliche Probleme mit den Studierenden zeitnah klären können. Zur besseren Übersicht möchten Sie zudem noch eine Darstellung gegen die an den entsprechenden Tagen aktiv bearbeiteten Issues, sowie die entsprechenden Deadlines des Kurses anzeigen.*
 
 ### Aufgabe
 
@@ -23,7 +23,7 @@ An das Plugin sind folgende Anforderungen zu stellen:
 
 - Im Repository gesetzte Milestones, sowie von Dozierenden gesetzte Deadlines sollen als vertikale, benannte Balken gerendert werden
 
-- In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Arbeitspakete (als Issues modelliert) angezeigt werden (Linie zwischen Start- und Enddatum, benannt mit Titel des Issues, s.Abb. unten).  
+- In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Issues angezeigt werden (Linie zwischen Start- und Enddatum, benannt mit Titel des Issues, s.Abb. unten).  
 
 Im Folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
 
