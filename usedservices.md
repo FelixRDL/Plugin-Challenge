@@ -10,4 +10,4 @@ Die Daten werden anonymisiert gesammelt, nicht-öffentlich abgespeichert und nur
 
 **Falls Sie mit den Bestimmungen NICHT einverstanden sind, geben Sie mir im Voicechat bescheid.** Andernfalls klicken Sie bitte auf WEITER.
 
-[Weiter](https://github.com/FelixRDL/Plugin-Challenge/blob/master/start.md)
+### [Weiter](https://github.com/FelixRDL/Plugin-Challenge/blob/master/start.md)
