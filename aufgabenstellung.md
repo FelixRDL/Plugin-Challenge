@@ -25,7 +25,7 @@ An das Plugin sind folgende Anforderungen zu stellen:
 
 - In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Arbeitspakete (als Issues modelliert) angezeigt werden (Balken zwischen Start- und Enddatum, benannt mit Titel des Issues).  
 
-Im folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
+Im Folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
 
 <p align="center">
   <img src="newplot.png" />
