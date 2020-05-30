@@ -1,6 +1,6 @@
 ## Einverständnis Aufzeichnung von Ton- und Bildmaterial
 
-Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgendes zeichnen wir auf:
+Im Rahmen der folgenden Studie werden Screencaptures eines geteilten Code-Editors, sowie Audioaufnahmen erstellt. Folgendes wird dabei aufgezeichnet:
 
 - Audio der gesamten Unterhaltung auf jit.si (oder einem alternativen Telekonferenzsystem)
 
