@@ -5,9 +5,9 @@
 
 ### Aufgabe
 
-Implementieren Sie bitte beispielhaft die weiter unten beschriebene Analyse. Falls es Fragen oder Unklarheiten gibt, können Sie sich gerne über Voicechat bei mir melden. Geben Sie mir außerdem über Voicechat Bescheid, wenn Sie bereit sind, die Studie zu beginnen - ich gebe Ihnen dann Zugang zum Code-Editor der Studie.
+Implementieren Sie bitte beispielhaft die weiter unten beschriebene Analyse (z.B. in Pseudocode, oder grob in einer von Ihnen favorisierten Sprache). Falls es Fragen oder Unklarheiten gibt, können Sie sich gerne über Voicechat bei mir melden. Geben Sie mir außerdem über Voicechat Bescheid, wenn Sie bereit sind, die Studie zu beginnen - ich gebe Ihnen dann Zugang zum Code-Editor der Studie.
 
-**Es geht in der Studie darum einen Einblick zu erhalten, wie Sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Das Plugin muss weder lauffähig, noch vollständig umgesetzt werden.**
+**Es geht in der Studie darum einen Einblick zu erhalten, wie Sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Sie müssen weder lauffähigen Code produzieren, noch innerhalb der gegebenen Zeit alle Features umsetzen.**
 
 
 ### Plugin-Spezifikationen
