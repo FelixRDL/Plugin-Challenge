@@ -15,7 +15,7 @@ Implementieren Sie bitte beispielhaft die weiter unten beschriebene Analyse (z.B
 
 Die Analyse beinhaltet folgende Komponenten:
 
-#### Aufwandsvisualisierung
+#### S1: Aufwandsvisualisierung
 
 - Visualisierung des täglichen Aufwands (y-Achse) nach StudentIn über Zeit (x-Achse) in einem Graphen
   - Eine Linie für den täglichen Arbeitsaufwand pro StudentIn
@@ -23,11 +23,11 @@ Die Analyse beinhaltet folgende Komponenten:
   
 - Der Aufwand wird, je nach Einstellung, an der Zahl der Commits, oder geänderter Zeilen bemessen
 
-#### Visualisierung der Zeitplanung
+#### S2: Visualisierung der Zeitplanung
 
 - Im Repository gesetzte Milestones, sowie von Dozierenden gesetzte Deadlines sollen als vertikale, benannte Balken gerendert werden
 
-#### Visualisierung bearbeitete Issues
+#### S3: Visualisierung bearbeitete Issues
 
 - In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Issues angezeigt werden (Linie jeweils von Start- bis Enddatum, benannt mit Titel des Issues, s.Abb. unten).  
 
