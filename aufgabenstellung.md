@@ -15,15 +15,21 @@ Implementieren Sie bitte beispielhaft die weiter unten beschriebene Analyse (z.B
 
 An das Plugin sind folgende Anforderungen zu stellen:
 
+#### Aufwandsvisualisierung
+
 - Visualisierung des täglichen Aufwands (y-Achse) nach StudentIn über Zeit (x-Achse) in einem Graphen
   - Eine Linie für den täglichen Arbeitsaufwand pro StudentIn
   - Eine weitere Linie mit dem durchschnittlichen täglichen Arbeitsaufwand für alle StudentInnen des Teams
   
 - Der Aufwand wird, je nach Einstellung, an der Zahl der Commits, oder geänderter Zeilen bemessen
 
+#### Visualisierung der Zeitplanung
+
 - Im Repository gesetzte Milestones, sowie von Dozierenden gesetzte Deadlines sollen als vertikale, benannte Balken gerendert werden
 
-- In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Issues angezeigt werden (Linie zwischen Start- und Enddatum, benannt mit Titel des Issues, s.Abb. unten).  
+#### Visualisierung bearbeitete Issues
+
+- In einem horizontalen Liniendiagramm sollen die zu der Zeit bearbeiteten Issues angezeigt werden (Linie jeweils von Start- bis Enddatum, benannt mit Titel des Issues, s.Abb. unten).  
 
 Im Folgenden ist eine beispielhafte Darstellung der Visualisierung abgebildet:
 
