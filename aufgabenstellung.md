@@ -10,10 +10,10 @@ Implementieren Sie bitte beispielhaft die weiter unten beschriebene Analyse (z.B
 **Es geht in der Studie darum einen Einblick zu erhalten, wie Sie bei der Erstellung eines solchen Moduls intuitiv vorgehen würden. Sie müssen weder lauffähigen Code produzieren, noch innerhalb der gegebenen Zeit alle Features umsetzen.**
 
 
-### Plugin-Spezifikationen
+### Spezifikationen der Analyse
 
 
-An das Plugin sind folgende Anforderungen zu stellen:
+Die Analyse beinhaltet folgende Komponenten:
 
 #### Aufwandsvisualisierung
 
