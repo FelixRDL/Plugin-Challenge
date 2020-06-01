@@ -1,7 +1,7 @@
 ## Aufgabenstellung 
 
 ### Szenario
-*Sie möchten ein studentisches Github-Repository in Bezug auf den geleisteten täglichen Arbeitsaufwand pro TeilnehmerIn eines Projektteams untersuchen. Auf diese Art und Weise möchten Sie besonders starke Divergenzen in der geleisteten Arbeit erkennen und vermeintliche Probleme mit den Studierenden zeitnah klären können. Zur besseren Übersicht möchten Sie zudem noch eine Darstellung gegen die an den entsprechenden Tagen aktiv bearbeiteten Issues, sowie die entsprechenden Deadlines des Kurses anzeigen.*
+*Sie möchten ein studentisches Github-Repository in Bezug auf den geleisteten täglichen Arbeitsaufwand pro TeilnehmerIn eines Projektteams untersuchen. Auf diese Art und Weise möchten Sie besonders starke Divergenzen in der geleisteten Arbeit erkennen und vermeintliche Probleme mit den Studierenden zeitnah klären können. Zur besseren Übersicht möchten Sie zudem noch eine Darstellung mit den an den entsprechenden Tagen aktiv bearbeiteten Issues, sowie die entsprechenden Deadlines des Kurses anzeigen.*
 
 ### Aufgabe
 
